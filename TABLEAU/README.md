@@ -90,8 +90,6 @@ Category Filter
 
 🧠 Key Insights (from the dashboard)
 
-(You may edit these as needed.)
-
 Technology consistently contributes the highest sales.
 
 Sales show a strong upward trend approaching 2018.
