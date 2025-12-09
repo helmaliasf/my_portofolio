@@ -7,9 +7,7 @@ It is published on Tableau Public and optimized for interactive exploration.
 🌐 🔗 Live Dashboard on Tableau Public
 
 👉 View the full interactive dashboard here:
-https://public.tableau.com/your-dashboard-link
-
-(Replace with your actual Tableau Public URL.)
+https://public.tableau.com/app/profile/helmalia.saiyidatul.fanesa/viz/BelajarTableau_17652065130460/Dashboard1?publish=yes
 
 The Tableau Public version allows users to interact with all filters, maps, charts, and detailed tables directly in their browser.
 
